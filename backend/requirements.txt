@@ -1,0 +1,4 @@
+google-genai
+pygame
+flask
+python-dotenv 
